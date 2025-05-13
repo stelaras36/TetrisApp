@@ -14,7 +14,8 @@ A fully functional Tetris game for Android built with Java, supporting:
 
 | Gameplay                         | Difficulty Selection              |
 |----------------------------------|-----------------------------------|
-| ![](screenshots/gameplay.png)   | ![](screenshots/difficulty.png)   |
+| ![Στιγμιότυπο οθόνης 2025-05-13 152650](https://github.com/user-attachments/assets/4eec5ae3-4a53-41de-8846-a49d84d9c4b7)
+  ![Στιγμιότυπο οθόνης 2025-05-13 152847](https://github.com/user-attachments/assets/f6cd63d5-e643-4b31-98e6-e62daad382dc)
 
 ## 🛠 Technologies
 
