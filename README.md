@@ -1,4 +1,9 @@
 # 🎮 TetrisApp for Android
+![License](https://img.shields.io/github/license/stelaras36/TetrisApp)
+![Language](https://img.shields.io/github/languages/top/stelaras36/TetrisApp)
+![Platform](https://img.shields.io/badge/platform-Android-green)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 
 A fully functional Tetris game for Android built with Java, supporting:
 
