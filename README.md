@@ -26,3 +26,24 @@ A fully functional Tetris game for Android built with Java, supporting:
 ## 🚀 How to Build
 
 1. Clone the repo:
+2. Open with Android Studio
+3. Run on emulator or real device
+
+## 📦 APK File
+
+To install the game manually:
+
+- Go to `app/build/outputs/apk/debug/app-debug.apk`
+- Copy to your Android device
+- Enable "Install from unknown sources"
+- Enjoy 🎉
+
+## 🏷️ Keywords
+
+android, tetris, arcade, java, mobile-game, canvas, gameview, music, highscore, difficulty, open-source
+
+
+## 👨‍💻 Developed by
+
+**Stelaras36**  
+📧 [your_email@example.com]
