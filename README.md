@@ -47,4 +47,3 @@ android, tetris, arcade, java, mobile-game, canvas, gameview, music, highscore, 
 ## 👨‍💻 Developed by
 
 **Stelaras36**  
-📧 [your_email@example.com]
